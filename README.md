@@ -1,5 +1,7 @@
 # FOIAFeed
 
+## This project has been archived, and development moved to [Track The News](https://github.com/freedomofpress/trackthenews), a general bot framework that now powers @FOIAFeed and others. The information below should be considered out of date.
+
 `foiafeed.py` is the script that powers [@FOIAfeed](https://twitter.com/foiafeed), a Twitter bot that monitors news outlets for reporting that incorporates public records laws like the Freedom of Information Act (FOIA), and tweets links to and excerpts from matching articles.
 
 Most of the script is dedicated to the `Article` class.
